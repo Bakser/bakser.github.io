@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "sb Xiaozhi Wang / Xiaozhi Wang's homepage"
+title                    : "Xiaozhi Wang"
 title_separator          : "-"
 name                     : &name "Xiaozhi Wang"
-description              : &description "personal description"
+description              : &description "NLP researcher, Undergraduate at Tsinghua University"
 url                      : https://bakser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bakser.github.io"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : BakserWang
 facebook:
-  username               :
+  username               : wangxz098
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -81,33 +81,33 @@ analytics:
 author:
   name             : "Xiaozhi Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Undergraduate at Tsinghua University, NLPer."
   location         : "Beijing, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=DjpXXZkAAAAJ"
+  email            : "xz-wang16@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "wangxz098"
   foursquare       :
-  github           : "academicpages"
+  github           : "bakser"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5727-143X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "BakserWang"
   vine             :
   weibo            :
   xing             :
