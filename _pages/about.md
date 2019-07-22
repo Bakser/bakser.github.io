@@ -17,7 +17,7 @@ haha
 
 ## Publications
 
-see [here](/publications) for details.
+\* indicates equal contribution, see [here](/publications) for details.
 
-* Xiaozhi Wang, <address> NAACL-HLT 2019 </address> [[code]](/sb) <strong>(oral)</strong>
+* Xiaozhi Wang, <i>NAACL-HLT 2019</i> [[code]](/sb) <font color=red>(oral)</font>
 * 
