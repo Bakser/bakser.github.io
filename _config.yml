@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaozhi Wang / Xiaozhi Wang's homepage"
+title                    : "sb Xiaozhi Wang / Xiaozhi Wang's homepage"
 title_separator          : "-"
 name                     : &name "Xiaozhi Wang"
 description              : &description "personal description"
