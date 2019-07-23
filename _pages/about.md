@@ -14,7 +14,7 @@ My research interests lie in deep learning methods on Natural Language Processin
 
 ## News
 
-* [Jul. 2019] Start visiting [MILA](https://mila.quebec/) and do research with [Prof. Jian Tang](https://jian-tang.com/).
+* [Jul. 2019] Start visiting [MILA](https://mila.quebec/) and doing research with [Prof. Jian Tang](https://jian-tang.com/).
 * [May. 2019] Elected as the fellow of Tsinghua University Initiative Scientific Research Program with a funding of 32, 000 USD.
 
 ## Professional Services
