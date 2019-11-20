@@ -22,9 +22,11 @@ My research interests lie in deep learning methods on Natural Language Processin
 * Program Committee Member: AAAI 2020
 * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019
 
-## Preprint
+## Preprints
 
-* <strong>Xiaozhi Wang</strong>, Tianyu Gao, Zhaocheng Zhu, Zhiyuan Liu, Juanzi Li, Jian Tang. KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation. [[pdf]](/files/KEPLER/KEPLER.pdf)
+* <strong>Xiaozhi Wang</strong>, Tianyu Gao, Zhaocheng Zhu, Zhiyuan Liu, Juanzi Li, Jian Tang. KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation. [[arxiv]](https://arxiv.org/abs/1911.06136) [[dataset]](https://graphvite.io/docs/latest/benchmark)
+
+* Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, <strong>Xiaozhi Wang</strong>, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. [[arxiv]](https://arxiv.org/abs/1911.01622)
 
 ## Publications
 
