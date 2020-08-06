@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am doing research under the supervision of [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I also visited [Mila](https://mila.quebec/) and did research with [Prof. Jian Tang](https://jian-tang.com/) at the summer of 2019. You can find my CV [here](/cv/).
+I am a 1st-year PhD student in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). I also visited [Mila](https://mila.quebec/) and did research with [Prof. Jian Tang](https://jian-tang.com/) at the summer of 2019. You can find my CV [here](/cv/).
 
 My research interests lie in deep learning methods on Natural Language Processing and Knowledge Graph. My research goal is to bridge machine learning models and symbolic human knowledge.
 
@@ -19,14 +19,15 @@ My research interests lie in deep learning methods on Natural Language Processin
 
 ## Professional Services
 
-* Program Committee Member: AAAI 2020
+* Program Committee Member: AAAI/IJCAI/COLING 2020
 * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019
 
 ## Preprints
 
 * <strong>Xiaozhi Wang</strong>, Tianyu Gao, Zhaocheng Zhu, Zhiyuan Liu, Juanzi Li, Jian Tang. KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation. [[arxiv]](https://arxiv.org/abs/1911.06136) [[dataset]](https://graphvite.io/docs/latest/benchmark)
-
 * Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, <strong>Xiaozhi Wang</strong>, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. [[arxiv]](https://arxiv.org/abs/1911.01622)
+* Yuxian Gu, Zhengyan Zhang, <strong>Xiaozhi Wang</strong>, Zhiyuan Liu, Maosong Sun. Train No Evil: Selective Masking for Task-guided Pre-training. [[arxiv]](https://arxiv.org/abs/2004.09733)
+* <strong>Xiaozhi Wang</strong>, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou. MAVEN: A Massive General Domain Event Detection Dataset. [[arxiv]](https://arxiv.org/abs/2004.13590)
 
 ## Publications
 
