@@ -14,7 +14,7 @@ My research interests lie in deep learning methods on Natural Language Processin
 
 ## News
 * [Aug. 2020] Got two papers accepted at EMNLP 2020. See you online:)
-* [Sep. 2019] Released a [pre-trained language model reading list](https://github.com/thunlp/PLMpapers) with [Zhengyan Zhang](https://github.com/zzy14). Enjoy it!
+* [Sep. 2019] Released a [pre-trained language model reading list](https://github.com/thunlp/PLMpapers) with [Zhengyan Zhang](https://github.com/zzy14).
 * [Aug. 2019] Got one paper accepted at EMNLP 2019. See you at Hong Kong.
 
 ## Professional Services
@@ -22,23 +22,23 @@ My research interests lie in deep learning methods on Natural Language Processin
 * Program Committee Member: AAAI/IJCAI/COLING 2020, AAAI 2021
 * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019
 
-## Preprints
+## Preprint
 
-* Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, <strong>Xiaozhi Wang</strong>, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. [[arxiv]](https://arxiv.org/abs/1911.01622)
+* Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, <b>Xiaozhi Wang</b>, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. [[arxiv]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM-Generate) [[homepage]](https://cpm.baai.ac.cn/)
 
 ## Publications
 
 \* indicates equal contribution, and see [here](/publications) for details.
 ### 2021
 
-* Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, <strong>Xiaozhi Wang</strong>, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. <i>To appear at AAAI Conference on Artifical Intelligence (AAAI 2021)</i>[[arxiv]](https://arxiv.org/abs/1911.01622)
+* Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, <strong>Xiaozhi Wang</strong>, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. <i>To appear at AAAI Conference on Artifical Intelligence (AAAI 2021)</i>. [[arxiv]](https://arxiv.org/abs/1911.01622)
 
 ### 2020
 
 * <strong>Xiaozhi Wang</strong>, Tianyu Gao, Zhaocheng Zhu, Zhengyan Zhang, Zhiyuan Liu, Juanzi Li, Jian Tang. KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation. <i>To appear at Transactions of the Association for Computational Linguistics.</i> [[pdf]](/files/TACL-KEPLER/KEPLER.pdf) [[dataset]](https://deepgraphlearning.github.io/project/wikidata5m)
-* <strong>Xiaozhi Wang</strong>\*, Shengyu Jia\*, Xu Han, Zhiyuan Liu, Juanzi Li, Peng Li, Jie Zhou. Neural Gibbs Sampling for Joint Event Argument Extraction. <i>The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2020)</i> [[pdf]](/files/AACL20-NGS/NGS.pdf)[[code]](https://github.com/THU-KEG/NGS)
-* <strong>Xiaozhi Wang</strong>, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou. MAVEN: A Massive General Domain Event Detection Dataset. <i>The Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).</i> [[pdf]](/files/EMNLP20-MAVEN/MAVEN.pdf) [[code]](https://github.com/THU-KEG/MAVEN-dataset)[[CodaLab]](https://competitions.codalab.org/competitions/27320)[[leaderboard]](https://thukeg.gitee.io/maven/)
-* Yuxian Gu, Zhengyan Zhang, <strong>Xiaozhi Wang</strong>, Zhiyuan Liu, Maosong Sun. Train No Evil: Selective Masking for Task-guided Pre-training. [[pdf]](/files/EMNLP20-TrainNoEvil/TrainNoEvil.pdf)[[code]](https://github.com/thunlp/SelectiveMasking)
+* <strong>Xiaozhi Wang</strong>\*, Shengyu Jia\*, Xu Han, Zhiyuan Liu, Juanzi Li, Peng Li, Jie Zhou. Neural Gibbs Sampling for Joint Event Argument Extraction. <i>The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2020)</i>. [[pdf]](/files/AACL20-NGS/NGS.pdf) [[code]](https://github.com/THU-KEG/NGS)
+* <strong>Xiaozhi Wang</strong>, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou. MAVEN: A Massive General Domain Event Detection Dataset. <i>The Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).</i> [[pdf]](/files/EMNLP20-MAVEN/MAVEN.pdf) [[code]](https://github.com/THU-KEG/MAVEN-dataset) [[CodaLab]](https://competitions.codalab.org/competitions/27320) [[leaderboard]](https://thukeg.gitee.io/maven/)
+* Yuxian Gu, Zhengyan Zhang, <strong>Xiaozhi Wang</strong>, Zhiyuan Liu, Maosong Sun. Train No Evil: Selective Masking for Task-guided Pre-training. [[pdf]](/files/EMNLP20-TrainNoEvil/TrainNoEvil.pdf) [[code]](https://github.com/thunlp/SelectiveMasking)
 
 ### 2019
 
