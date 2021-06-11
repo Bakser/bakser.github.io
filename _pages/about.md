@@ -19,11 +19,12 @@ My research interests lie in deep learning methods on Natural Language Processin
 
 ## Professional Services
 
-* Program Committee Member: AAAI/IJCAI/COLING 2020, AAAI/ACL 2021
+* Program Committee Member: AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021
 * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019
 
 ## Preprint
 
+* Chenglei Si, Zhengyan Zhang, Yingfa Chen, Fanchao Qi, <b>Xiaozhi Wang</b>, Zhiyuan Liu, Maosong Sun. SHUOWEN-JIEZI: Linguistically Informed Tokenizers For Chinese Language Model Pretraining. [[arxiv]](https://arxiv.org/abs/2106.00400)
 * Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, <b>Xiaozhi Wang</b>, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. [[arxiv]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM-Generate) [[homepage]](https://cpm.baai.ac.cn/)
 
 ## Publications
