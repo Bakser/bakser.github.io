@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st-year PhD student in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). I also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). At the summer of 2019, I visited [Mila](https://mila.quebec/) and did research with [Prof. Jian Tang](https://jian-tang.com/). You can find my CV [here](/cv/).
+I am a 2nd-year PhD student in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/). I also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). At the summer of 2019, I visited [Mila](https://mila.quebec/) and did research with [Prof. Jian Tang](https://jian-tang.com/). You can find my CV [here](/cv/).
 
 My research interests lie in deep learning methods on Natural Language Processing and Knowledge Graph. My research goal is to bridge machine learning models and symbolic human knowledge.
 
@@ -19,25 +19,25 @@ My research interests lie in deep learning methods on Natural Language Processin
 
 ## Professional Services
 
-* Program Committee Member: AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021
+* Program Committee Member: AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI 2022
 * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019
 
 ## Preprint
 
 * Chenglei Si, Zhengyan Zhang, Yingfa Chen, Fanchao Qi, <b>Xiaozhi Wang</b>, Zhiyuan Liu, Maosong Sun. SHUOWEN-JIEZI: Linguistically Informed Tokenizers For Chinese Language Model Pretraining. [[arxiv]](https://arxiv.org/abs/2106.00400)
-* Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, <b>Xiaozhi Wang</b>, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. [[arxiv]](https://arxiv.org/abs/2012.00413) [[code]](https://github.com/TsinghuaAI/CPM-Generate) [[homepage]](https://cpm.baai.ac.cn/)
 
 ## Publications
 
 \* indicates equal contribution, and see [here](/publications) for details.
 ### 2021
 
+* Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, <b>Xiaozhi Wang</b>, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. *AI Open.* [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X) [[code]](https://github.com/TsinghuaAI/CPM-1-Generate) [[homepage]](https://cpm.baai.ac.cn/)
 * Ziqi Wang\*, **Xiaozhi Wang**\*, Xu Han, Yankai Lin, Lei Hou, Zhiyuan Liu, Peng Li, Juanzi Li and Jie Zhou. CLEVE: Contrastive Pre-training for Event Extraction. *The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)*. [[pdf]](/files/ACL21-CLEVE/CLEVE.pdf) [[code]](https://github.com/THU-KEG/CLEVE)
+* <strong>Xiaozhi Wang</strong>, Tianyu Gao, Zhaocheng Zhu, Zhengyan Zhang, Zhiyuan Liu, Juanzi Li, Jian Tang. KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation. <i>Transactions of the Association for Computational Linguistics (TACL), 2021.</i> [[pdf]](/files/TACL-KEPLER/KEPLER.pdf) [[code]](https://github.com/THU-KEG/KEPLER) [[dataset]](
 * Yuan Yao, Haoxi Zhong, Zhengyan Zhang, Xu Han, <strong>Xiaozhi Wang</strong>, Chaojun Xiao, Guoyang Zeng, Zhiyuan Liu, Maosong Sun. Adversarial Language Games for Advanced Natural Language Intelligence. <i>AAAI Conference on Artifical Intelligence (AAAI 2021)</i>. [[arxiv]](https://arxiv.org/abs/1911.01622)
 
 ### 2020
 
-* <strong>Xiaozhi Wang</strong>, Tianyu Gao, Zhaocheng Zhu, Zhengyan Zhang, Zhiyuan Liu, Juanzi Li, Jian Tang. KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation. <i>Transactions of the Association for Computational Linguistics (TACL), 2021.</i> [[pdf]](/files/TACL-KEPLER/KEPLER.pdf) [[code]](https://github.com/THU-KEG/KEPLER) [[dataset]](https://deepgraphlearning.github.io/project/wikidata5m)
 * <strong>Xiaozhi Wang</strong>\*, Shengyu Jia\*, Xu Han, Zhiyuan Liu, Juanzi Li, Peng Li, Jie Zhou. Neural Gibbs Sampling for Joint Event Argument Extraction. <i>The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2020)</i>. [[pdf]](/files/AACL20-NGS/NGS.pdf) [[code]](https://github.com/THU-KEG/NGS)
 * <strong>Xiaozhi Wang</strong>, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin, Jie Zhou. MAVEN: A Massive General Domain Event Detection Dataset. <i>The Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).</i> [[pdf]](/files/EMNLP20-MAVEN/MAVEN.pdf) [[code]](https://github.com/THU-KEG/MAVEN-dataset) [[CodaLab]](https://competitions.codalab.org/competitions/27320) [[leaderboard]](https://thukeg.gitee.io/maven/)
 * Yuxian Gu, Zhengyan Zhang, <strong>Xiaozhi Wang</strong>, Zhiyuan Liu, Maosong Sun. Train No Evil: Selective Masking for Task-guided Pre-training. [[pdf]](/files/EMNLP20-TrainNoEvil/TrainNoEvil.pdf) [[code]](https://github.com/thunlp/SelectiveMasking)
