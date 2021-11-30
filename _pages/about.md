@@ -24,6 +24,8 @@ My research interests lie in deep learning methods on Natural Language Processin
 
 ## Preprint
 
+* Yujia Qin\*, **Xiaozhi Wang**\*, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning. [[arxiv]](https://arxiv.org/abs/2110.07867)
+* Yusheng Su\*, **Xiaozhi Wang**\*, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou. On Transferability of Prompt Tuning for Natural Language Understanding. [[arxiv]](https://arxiv.org/abs/2111.06719)
 * Chenglei Si, Zhengyan Zhang, Yingfa Chen, Fanchao Qi, <b>Xiaozhi Wang</b>, Zhiyuan Liu, Maosong Sun. SHUOWEN-JIEZI: Linguistically Informed Tokenizers For Chinese Language Model Pretraining. [[arxiv]](https://arxiv.org/abs/2106.00400)
 
 ## Publications
