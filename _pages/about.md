@@ -15,23 +15,26 @@ My research interests lie in deep learning methods on Natural Language Processin
 ## News
 * [May. 2021] Got one paper accepted at ACL-IJCNLP 2021. See you online!
 * [Aug. 2020] Got two papers accepted at EMNLP 2020. See you online:)
-* [Sep. 2019] Released a [pre-trained language model reading list](https://github.com/thunlp/PLMpapers) with [Zhengyan Zhang](https://github.com/zzy14).
+* [Sep. 2019] Released a [pre-trained language model reading list](https://github.com/thunlp/PLMpapers) with [Zhengyan Zhang](https://zzy14.github.io/).
 
 ## Professional Services
 
-* Program Committee Member/Reviewer: AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI/COLING 2022, ACL Rolling Review.
+* Program Committee Member/Reviewer: AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI/COLING/SIGIR/CCKS 2022, ACL Rolling Review.
 <!-- * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019 -->
 
 ## Preprint
 
 * Yujia Qin\*, **Xiaozhi Wang**\*, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning. [[arxiv]](https://arxiv.org/abs/2110.07867)
-* Yusheng Su\*, **Xiaozhi Wang**\*, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou. On Transferability of Prompt Tuning for Natural Language Understanding. [[arxiv]](https://arxiv.org/abs/2111.06719)
 * Yuan Yao, Qingxiu Dong, Jian Guan, Boxi Cao, Zhengyan Zhang, Chaojun Xiao, **Xiaozhi Wang**, Fanchao Qi, Junwei Bao, Jinran Nie, Zheni Zeng, Yuxian Gu, Kun Zhou, Xuancheng Huang, Wenhao Li, Shuhuai Ren, Jinliang Lu, Chengqiang Xu, Huadong Wang, Guoyang Zeng, Zile Zhou, Jiajun Zhang, Juanzi Li, Minlie Huang, Rui Yan, Xiaodong He, Xiaojun Wan, Xin Zhao, Xu Sun, Yang Liu, Zhiyuan Liu, Xianpei Han, Erhong Yang, Zhifang Sui, Maosong Sun. CUGE: A Chinese Language Understanding and Generation Evaluation Benchmark. [[arxiv]](https://arxiv.org/abs/2112.13610)
 * Chenglei Si, Zhengyan Zhang, Yingfa Chen, Fanchao Qi, <b>Xiaozhi Wang</b>, Zhiyuan Liu, Maosong Sun. SHUOWEN-JIEZI: Linguistically Informed Tokenizers For Chinese Language Model Pretraining. [[arxiv]](https://arxiv.org/abs/2106.00400)
 
 ## Publications
 
 \* indicates equal contribution, and see [here](/publications) for details.
+### 2022
+* Yusheng Su\*, **Xiaozhi Wang**\*, Yujia Qin, Chi-Min Chan, Yankai Lin, Huadong Wang, Kaiyue Wen, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou. On Transferability of Prompt Tuning for Natural Language Understanding. *The 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022)*. [[pdf]](https://arxiv.org/pdf/2111.06719.pdf) [[code]](https://github.com/thunlp/Prompt-Transferability)
+* Feng Yao, Chaojun Xiao, **Xiaozhi Wang**, Zhiyuan Liu, Lei Hou, Cunchao Tu, Juanzi Li, Yun Liu, Weixing Shen, Maosong Sun. LEVEN: A Large-Scale Chinese Legal Event Detection Dataset. *Findings of ACL 2022*. [[pdf]](https://aclanthology.org/2022.findings-acl.17.pdf) [[code]](https://github.com/thunlp/LEVEN)
+
 ### 2021
 
 * Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, Yusheng Su, Haozhe Ji, Jian Guan, Fanchao Qi, <b>Xiaozhi Wang</b>, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. CPM: A Large-scale Generative Chinese Pre-trained Language Model. *AI Open.* [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X) [[code]](https://github.com/TsinghuaAI/CPM-1-Generate) [[homepage]](https://cpm.baai.ac.cn/)
