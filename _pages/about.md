@@ -19,19 +19,21 @@ My research interests lie in deep learning methods on Natural Language Processin
 
 ## Professional Services
 
-* Program Committee Member/Reviewer: AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI/COLING/SIGIR/CCKS 2022, ACL Rolling Review.
+* Program Committee Member/Reviewer (Conference): AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI/COLING/SIGIR/CCKS/EMNLP 2022, AAAI 2023, ACL Rolling Review.
+* Reviewer (Journal): Neurocomputing, Complex & Intelligent Systems, AI Open
 <!-- * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019 -->
 
 ## Preprint
 
 * Yujia Qin\*, **Xiaozhi Wang**\*, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning. [[arxiv]](https://arxiv.org/abs/2110.07867)
 * Yuan Yao, Qingxiu Dong, Jian Guan, Boxi Cao, Zhengyan Zhang, Chaojun Xiao, **Xiaozhi Wang**, Fanchao Qi, Junwei Bao, Jinran Nie, Zheni Zeng, Yuxian Gu, Kun Zhou, Xuancheng Huang, Wenhao Li, Shuhuai Ren, Jinliang Lu, Chengqiang Xu, Huadong Wang, Guoyang Zeng, Zile Zhou, Jiajun Zhang, Juanzi Li, Minlie Huang, Rui Yan, Xiaodong He, Xiaojun Wan, Xin Zhao, Xu Sun, Yang Liu, Zhiyuan Liu, Xianpei Han, Erhong Yang, Zhifang Sui, Maosong Sun. CUGE: A Chinese Language Understanding and Generation Evaluation Benchmark. [[arxiv]](https://arxiv.org/abs/2112.13610)
-* Chenglei Si, Zhengyan Zhang, Yingfa Chen, Fanchao Qi, <b>Xiaozhi Wang</b>, Zhiyuan Liu, Maosong Sun. SHUOWEN-JIEZI: Linguistically Informed Tokenizers For Chinese Language Model Pretraining. [[arxiv]](https://arxiv.org/abs/2106.00400)
+* Chenglei Si, Zhengyan Zhang, Yingfa Chen, Fanchao Qi, **Xiaozhi Wang**, Zhiyuan Liu, Maosong Sun. Sub-Character Tokenization for Chinese Pretrained Language Models. [[arxiv]](https://arxiv.org/abs/2106.00400)
 
 ## Publications
 
 \* indicates equal contribution, and see [here](/publications) for details.
 ### 2022
+* Kaijie Shi, **Xiaozhi Wang**, Jifan Yu, Lei Hou, Juanzi Li, Jingtong Wu, Dingyu Yong, Jinghui Xiao, Qun Liu. CStory: A Chinese Large-scale News Storyline Dataset. *The 31st ACM International Conference on Information and Knowledge Management (CIKM 2022)*. [[pdf]]() [[code & data]](https://github.com/THU-KEG/CStory)
 * Yusheng Su\*, **Xiaozhi Wang**\*, Yujia Qin, Chi-Min Chan, Yankai Lin, Huadong Wang, Kaiyue Wen, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou. On Transferability of Prompt Tuning for Natural Language Understanding. *The 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022)*. [[pdf]](https://arxiv.org/pdf/2111.06719.pdf) [[code]](https://github.com/thunlp/Prompt-Transferability)
 * Feng Yao, Chaojun Xiao, **Xiaozhi Wang**, Zhiyuan Liu, Lei Hou, Cunchao Tu, Juanzi Li, Yun Liu, Weixing Shen, Maosong Sun. LEVEN: A Large-Scale Chinese Legal Event Detection Dataset. *Findings of ACL 2022*. [[pdf]](https://aclanthology.org/2022.findings-acl.17.pdf) [[code]](https://github.com/thunlp/LEVEN)
 
