@@ -28,11 +28,18 @@ My research interests lie in deep learning methods on Natural Language Processin
 
 * Yujia Qin\*, **Xiaozhi Wang**\*, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. Exploring Universal Intrinsic Task Subspace via Prompt Tuning. [[arxiv]](https://arxiv.org/abs/2110.07867)
 * Yuan Yao, Qingxiu Dong, Jian Guan, Boxi Cao, Zhengyan Zhang, Chaojun Xiao, **Xiaozhi Wang**, Fanchao Qi, Junwei Bao, Jinran Nie, Zheni Zeng, Yuxian Gu, Kun Zhou, Xuancheng Huang, Wenhao Li, Shuhuai Ren, Jinliang Lu, Chengqiang Xu, Huadong Wang, Guoyang Zeng, Zile Zhou, Jiajun Zhang, Juanzi Li, Minlie Huang, Rui Yan, Xiaodong He, Xiaojun Wan, Xin Zhao, Xu Sun, Yang Liu, Zhiyuan Liu, Xianpei Han, Erhong Yang, Zhifang Sui, Maosong Sun. CUGE: A Chinese Language Understanding and Generation Evaluation Benchmark. [[arxiv]](https://arxiv.org/abs/2112.13610)
-* Chenglei Si, Zhengyan Zhang, Yingfa Chen, Fanchao Qi, **Xiaozhi Wang**, Zhiyuan Liu, Maosong Sun. Sub-Character Tokenization for Chinese Pretrained Language Models. [[arxiv]](https://arxiv.org/abs/2106.00400)
+* Chenglei Si\*, Zhengyan Zhang\*, Yingfa Chen\*, **Xiaozhi Wang**, Zhiyuan Liu, Maosong Sun. READIN: A Chinese Multi-Task Benchmark with Realistic and Diverse Input Noises. [[arxiv]](https://arxiv.org/pdf/2302.07324.pdf)
+* Ming Li\*, Yusheng Su\*, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, **Xiaozhi Wang**, Zhiyuan Liu, Dan Zhang. Human Emotion Knowledge Representation Emerges in Large Language Model and Supports Discrete Emotion Inference. [[arxiv]](https://arxiv.org/pdf/2302.09582.pdf)
 
 ## Publications
 
 \* indicates equal contribution, and see [here](/publications) for details.
+### 2023
+
+* Chenglei Si\*, Zhengyan Zhang\*, Yingfa Chen\*, Fanchao Qi, **Xiaozhi Wang**, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun. Sub-Character Tokenization for Chinese Pretrained Language Models. <i>Transactions of the Association for Computational Linguistics (TACL), 2023.</i> [[pdf]](https://arxiv.org/pdf/2106.00400.pdf) [[code]](https://github.com/thunlp/SubCharTokenization)
+* Ning Ding\*, Yujia Qi\*, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, **Xiaozhi Wang**, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun. Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models. <i>Nature Machine Intelligence, 2023</i> [[pdf]](https://arxiv.org/pdf/2203.06904.pdf) [[code]](https://github.com/thunlp/OpenDelta)
+
+
 ### 2022
 
 * <strong>Xiaozhi Wang</strong>\*, Yulin Chen\*, Ning Ding, Hao Peng, Zimu Wang, Yankai Lin, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou. MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction. <i>The Conference on Empirical Methods in Natural Language Processing (EMNLP 2022).</i> [[pdf]](/files/EMNLP22-MAVEN-ERE/MAVEN-ERE.pdf) [[code]](https://github.com/THU-KEG/MAVEN-ERE) [[CodaLab]](https://codalab.lisn.upsaclay.fr/competitions/8691) <font color="#dd0000">(oral)</font>
