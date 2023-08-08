@@ -8,34 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year PhD candidate in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [Mila](https://mila.quebec/) and did research with [Prof. Jian Tang](https://jian-tang.com/). You can find my CV [here](/cv/).
+I am a 3rd-year PhD candidate in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [Mila](https://mila.quebec/) and did research with [Prof. Jian Tang](https://jian-tang.com/). You can find my CV [here](/cv/).
 
-My research interests lie in deep learning methods on Natural Language Processing and Knowledge Graph. My research goal is to bridge machine learning models and symbolic human knowledge.
+I work on natural language processing and knowledge engineering. My research mainly focuses on understanding pre-trained languaged models with empirical analyses and let machines understand events.
 
 ## News
 
+* [Jun. 2023] Check out [KoLA](https://www.kola.xlore.cn), our new world knowledge benchmark for LLMs.
 * [Oct. 2022] Got three papers accepted at EMNLP 2022. See you online:)
-* [Oct. 2022] Released a nice event extraction toolkit [OmniEvent](https://github.com/THU-KEG/OmniEvent). Welcome to try it!
+* [Oct. 2022] Release a nice event extraction toolkit [OmniEvent](https://github.com/THU-KEG/OmniEvent). Welcome to try it!
 * [May. 2021] Got one paper accepted at ACL-IJCNLP 2021. See you online!
 
 ## Professional Services
 
-* Program Committee Member/Reviewer (Conference): AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI/COLING/SIGIR/CCKS/EMNLP 2022, AAAI 2023, ACL Rolling Review.
+* Program Committee Member/Reviewer (Conference): AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI/COLING/SIGIR/CCKS/EMNLP 2022, AAAI/ACL/EMNLP/NeurIPS 2023, ACL Rolling Review.
 * Reviewer (Journal): [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [Complex & Intelligent Systems](https://www.springer.com/journal/40747), [AI Open](https://www.sciencedirect.com/journal/ai-open), [IEEE TASLP](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), [Frontiers of Computer Science](https://www.springer.com/journal/11704)
 <!-- * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019 -->
 
 ## Preprint
-
+* Jifan Yu\*, **Xiaozhi Wang**\*, et al. KoLA: Carefully Benchmarking World Knowledge of Large Language Models. [[arxiv]](https://arxiv.org/abs/2306.09296)
 * Yujia Qin\*, **Xiaozhi Wang**\*, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. Exploring Universal Intrinsic Task Subspace via Prompt Tuning. [[arxiv]](https://arxiv.org/abs/2110.07867)
 * Yuan Yao, Qingxiu Dong, Jian Guan, Boxi Cao, Zhengyan Zhang, Chaojun Xiao, **Xiaozhi Wang**, Fanchao Qi, Junwei Bao, Jinran Nie, Zheni Zeng, Yuxian Gu, Kun Zhou, Xuancheng Huang, Wenhao Li, Shuhuai Ren, Jinliang Lu, Chengqiang Xu, Huadong Wang, Guoyang Zeng, Zile Zhou, Jiajun Zhang, Juanzi Li, Minlie Huang, Rui Yan, Xiaodong He, Xiaojun Wan, Xin Zhao, Xu Sun, Yang Liu, Zhiyuan Liu, Xianpei Han, Erhong Yang, Zhifang Sui, Maosong Sun. CUGE: A Chinese Language Understanding and Generation Evaluation Benchmark. [[arxiv]](https://arxiv.org/abs/2112.13610)
-* Chenglei Si\*, Zhengyan Zhang\*, Yingfa Chen\*, **Xiaozhi Wang**, Zhiyuan Liu, Maosong Sun. READIN: A Chinese Multi-Task Benchmark with Realistic and Diverse Input Noises. [[arxiv]](https://arxiv.org/pdf/2302.07324.pdf)
 * Ming Li\*, Yusheng Su\*, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, **Xiaozhi Wang**, Zhiyuan Liu, Dan Zhang. Human Emotion Knowledge Representation Emerges in Large Language Model and Supports Discrete Emotion Inference. [[arxiv]](https://arxiv.org/pdf/2302.09582.pdf)
 
 ## Publications
 
 \* indicates equal contribution, and see [here](/publications) for details.
 ### 2023
-
+* Hao Peng\*, **Xiaozhi Wang**\*, Feng Yao\*, Kaisheng Zeng, Lei Hou, Juanzi Li, Zhiyuan Liu, Weixing Shen. The Devil is in the Details: On the Pitfalls of Event Extraction Evaluation. *Findings of ACL 2023* [[pdf]](https://aclanthology.org/2023.findings-acl.586.pdf) [[code]](https://github.com/THU-KEG/OmniEvent)
+* Zhengyan Zhang\*, Zhiyuan Zeng\*, Yankai Lin, Chaojun Xiao, **Xiaozhi Wang**, Xu Han, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Jie Zhou. Emergent Modularity in Pre-trained Transformers. *Findings of ACL 2023* [[pdf]](https://aclanthology.org/2023.findings-acl.250.pdf) [[code]](https://github.com/THUNLP/modularity-analysis)
+* Chenglei Si\*, Zhengyan Zhang\*, Yingfa Chen\*, **Xiaozhi Wang**, Zhiyuan Liu, Maosong Sun. READIN: A Chinese Multi-Task Benchmark with Realistic and Diverse Input Noises. <i>The 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023.</i> [[pdf]](https://aclanthology.org/2023.acl-long.460.pdf) [[code & dataset]](https://github.com/thunlp/READIN)
 * Chenglei Si\*, Zhengyan Zhang\*, Yingfa Chen\*, Fanchao Qi, **Xiaozhi Wang**, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun. Sub-Character Tokenization for Chinese Pretrained Language Models. <i>Transactions of the Association for Computational Linguistics (TACL), 2023.</i> [[pdf]](https://arxiv.org/pdf/2106.00400.pdf) [[code]](https://github.com/thunlp/SubCharTokenization)
 * Ning Ding\*, Yujia Qi\*, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, **Xiaozhi Wang**, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun. Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models. <i>Nature Machine Intelligence, 2023</i> [[pdf]](https://arxiv.org/pdf/2203.06904.pdf) [[code]](https://github.com/thunlp/OpenDelta)
 
