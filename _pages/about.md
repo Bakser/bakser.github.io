@@ -14,7 +14,7 @@ I work on natural language processing and knowledge engineering. My research mai
 
 ## News
 
-* [Jun. 2023] Check out [KoLA](https://www.kola.xlore.cn), our new world knowledge benchmark for LLMs.
+* [Jun. 2023] Check out [KoLA](https://kola.xlore.cn), our new world knowledge benchmark for LLMs.
 * [Oct. 2022] Got three papers accepted at EMNLP 2022. See you online:)
 * [Oct. 2022] Release a nice event extraction toolkit [OmniEvent](https://github.com/THU-KEG/OmniEvent). Welcome to try it!
 * [May. 2021] Got one paper accepted at ACL-IJCNLP 2021. See you online!
