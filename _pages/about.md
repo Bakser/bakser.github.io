@@ -8,16 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year PhD candidate in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [Mila](https://mila.quebec/) and did research with [Prof. Jian Tang](https://jian-tang.com/). You can find my CV [here](/cv/).
+I am a fourth-year PhD student in the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am fortunately advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [Mila](https://mila.quebec/) and worked with [Prof. Jian Tang](https://jian-tang.com/) in 2019. You can find my CV [here](/cv/).
 
-I work on natural language processing and knowledge engineering. My research mainly focuses on understanding pre-trained languaged models with empirical analyses and let machines understand events.
+My research interest lies in natural language processing and knowledge engineering. The research directions I am fascinated in and working on are:
+
+1. **Understanding Lanaguge Models** (Mechanistic Interpretability, Probing, etc.)
+  - How to understand the working mechanisms of language models with empirical analyses and how can the findings help us improve and steer language models.
+  - Related Projects: [Skill Neuron](/files/EMNLP22-SkillNeuron/SkillNeuron.pdf), [Intrinsic Task Subspace](https://arxiv.org/abs/2110.07867), [Conceptual Knowledge Probing](/files/EMNLP22-COPEN/COPEN.pdf) 
+2. **Event Understanding** (Event Extraction, Event Relation, etc.)
+  - How to enable models effectively understand events in text.
+  - Datasets: [MAVEN](/files/EMNLP20-MAVEN/MAVEN.pdf), [MAVEN-ERE](/files/EMNLP22-MAVEN-ERE/MAVEN-ERE.pdf)
+  - Toolkit: [OmniEvent](https://github.com/THU-KEG/OmniEvent), [Evaluation Discussion](https://aclanthology.org/2023.findings-acl.586.pdf) 
+
 
 ## News
 
 * [Jun. 2023] Check out [KoLA](https://kola.xlore.cn), our new world knowledge benchmark for LLMs.
-* [Oct. 2022] Got three papers accepted at EMNLP 2022. See you online:)
 * [Oct. 2022] Release a nice event extraction toolkit [OmniEvent](https://github.com/THU-KEG/OmniEvent). Welcome to try it!
-* [May. 2021] Got one paper accepted at ACL-IJCNLP 2021. See you online!
 
 ## Professional Services
 
