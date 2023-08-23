@@ -13,5 +13,5 @@ redirect_from:
 
 [Chinese CV](/files/Chinese_CV.pdf)
 
-updated in 2022/03.
+updated in 2023/08.
 

@@ -5,7 +5,7 @@ author_profile: true
 ---
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=DjpXXZkAAAAJ).
 
-## Preprint
+## Preprints
 * Jifan Yu\*, **Xiaozhi Wang**\*, et al. KoLA: Carefully Benchmarking World Knowledge of Large Language Models. [[arxiv]](https://arxiv.org/abs/2306.09296)
 * Yujia Qin\*, **Xiaozhi Wang**\*, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. Exploring Universal Intrinsic Task Subspace via Prompt Tuning. [[arxiv]](https://arxiv.org/abs/2110.07867)
 * Yuan Yao, Qingxiu Dong, Jian Guan, Boxi Cao, Zhengyan Zhang, Chaojun Xiao, **Xiaozhi Wang**, Fanchao Qi, Junwei Bao, Jinran Nie, Zheni Zeng, Yuxian Gu, Kun Zhou, Xuancheng Huang, Wenhao Li, Shuhuai Ren, Jinliang Lu, Chengqiang Xu, Huadong Wang, Guoyang Zeng, Zile Zhou, Jiajun Zhang, Juanzi Li, Minlie Huang, Rui Yan, Xiaodong He, Xiaojun Wan, Xin Zhao, Xu Sun, Yang Liu, Zhiyuan Liu, Xianpei Han, Erhong Yang, Zhifang Sui, Maosong Sun. CUGE: A Chinese Language Understanding and Generation Evaluation Benchmark. [[arxiv]](https://arxiv.org/abs/2112.13610)
