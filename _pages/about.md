@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am fortunately advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Previously, I received my B.E. in [Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) from Tsinghua University in 2020. In 2019, I visited [Mila](https://mila.quebec/) and worked with [Prof. Jian Tang](https://jian-tang.com/). You can find my CV [here](/cv/).
+I am a fourth-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am fortunately advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Currently, I am visiting [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/) under the supervison of [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html). Previously, I received my B.E. in [Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) from Tsinghua University in 2020. In 2019, I visited [Mila](https://mila.quebec/) and worked with [Prof. Jian Tang](https://jian-tang.com/). You can find my CV [here](/cv/).
 
 My research interest lies in natural language processing and knowledge engineering. The research directions I am fascinated in and working on are:
 
@@ -17,13 +17,15 @@ My research interest lies in natural language processing and knowledge engineeri
   - Projects: [Skill Neuron](/files/EMNLP22-SkillNeuron/SkillNeuron.pdf), [Intrinsic Task Subspace](https://arxiv.org/abs/2110.07867), [Conceptual Knowledge Probing](/files/EMNLP22-COPEN/COPEN.pdf) 
 2. **Event Understanding** (Event Extraction, Event Relation Extraction, etc.)
   - How to enable models understand complicated events and their interrelations like causalities.
-  - Datasets: [MAVEN](/files/EMNLP20-MAVEN/MAVEN.pdf), [MAVEN-ERE](/files/EMNLP22-MAVEN-ERE/MAVEN-ERE.pdf)
+  - Datasets: [MAVEN](/files/EMNLP20-MAVEN/MAVEN.pdf), [MAVEN-ERE](/files/EMNLP22-MAVEN-ERE/MAVEN-ERE.pdf), [MAVEN-Arg](https://arxiv.org/abs/2311.09105)
   - Toolkit: [OmniEvent](https://github.com/THU-KEG/OmniEvent), [Evaluation Pitfalls](https://aclanthology.org/2023.findings-acl.586.pdf) 
 
 
 ## News
-
-* [Jun. 2023] Check out [KoLA](https://kola.xlore.cn), our new evolving world knowledge benchmark for LLMs.
+* [Mar. 2024] Start visiting [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/).
+* [Feb. 2024] Check out our new preprints on [MAVEN-Arg Event Argument Dataset](https://arxiv.org/abs/2311.09105) and [Event-level Knowledge Editing](https://arxiv.org/abs/2402.13093).
+* [Jan. 2024] The LLM world knowledge benchmark [KoLA](https://arxiv.org/abs/2306.09296) got accepted at ICLR. See you in Vienna!
+* [Dec. 2023] The [Robust Evaluation for Open IE](https://arxiv.org/abs/2305.13981) paper was selected as outstanding paper of EMNLP!
 * [Oct. 2022] Release a nice event extraction toolkit [OmniEvent](https://github.com/THU-KEG/OmniEvent). Welcome to try it!
 
 ## Highlighted Publications
