@@ -41,7 +41,7 @@ Please refer to [publications](/publications/) or [my Google Scholar profile](ht
 
 
 ## Professional Services
-
+* Area Chair: ARR Feb/ACL 2024
 * Program Committee Member/Reviewer (Conference): AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI/COLING/SIGIR/CCKS/EMNLP 2022, AAAI/ACL/EMNLP/NeurIPS 2023, ACL Rolling Review.
 * Reviewer (Journal): [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [Complex & Intelligent Systems](https://www.springer.com/journal/40747), [AI Open](https://www.sciencedirect.com/journal/ai-open), [IEEE TASLP](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), [Frontiers of Computer Science](https://www.springer.com/journal/11704)
 <!-- * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019 -->
