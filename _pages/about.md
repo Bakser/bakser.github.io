@@ -22,6 +22,7 @@ My research interest lies in natural language processing and knowledge engineeri
 
 
 ## News
+* [May 2024] Will attend ICLR2024 in person.
 * [Mar. 2024] Start visiting [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/).
 * [Feb. 2024] Check out our new preprints on [MAVEN-Arg Event Argument Dataset](https://arxiv.org/abs/2311.09105) and [Event-level Knowledge Editing](https://arxiv.org/abs/2402.13093).
 * [Jan. 2024] The LLM world knowledge benchmark [KoLA](https://arxiv.org/abs/2306.09296) got accepted at ICLR. See you in Vienna!
@@ -41,7 +42,7 @@ Please refer to [publications](/publications/) or [my Google Scholar profile](ht
 
 
 ## Professional Services
-* Area Chair: ARR Feb/ACL 2024
+* Area Chair: ACL Rolling Review since Feb. 2024
 * Program Committee Member/Reviewer (Conference): AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI/COLING/SIGIR/CCKS/EMNLP 2022, AAAI/ACL/EMNLP/NeurIPS 2023, ACL Rolling Review.
 * Reviewer (Journal): [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [Complex & Intelligent Systems](https://www.springer.com/journal/40747), [AI Open](https://www.sciencedirect.com/journal/ai-open), [IEEE TASLP](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), [Frontiers of Computer Science](https://www.springer.com/journal/11704)
 <!-- * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019 -->
