@@ -7,7 +7,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Preprints
 * Hao Peng\*, **Xiaozhi Wang**\*, Chunyang Li, Kaisheng Zeng, Jiangshan Duo, Yixin Cao, Lei Hou, Juanzi Li. Event-level Knowledge Editing. [[arxiv]](https://arxiv.org/abs/2402.13093)
-* **Xiaozhi Wang**, Hao Peng, Yong Guan, Kaisheng Zeng, Jianhui Chen, Lei Hou, Xu Han, Yankai Lin, Zhiyuan Liu, Ruobing Xie, Jie Zhou, Juanzi Li. Maven-Arg: Completing the puzzle of all-in-one event understanding dataset with event argument annotation. [[arxiv]](https://arxiv.org/abs/2311.09105)
 * Hao Peng\*, **Xiaozhi Wang**\*, Jianhui Chen\*, Weikai Li, Yunjia Qi, Zimu Wang, Zhili Wu, Kaisheng Zeng, Bin Xu, Lei Hou, Juanzi Li. When does In-context Learning Fall Short and Why? A Study on Specification-Heavy Tasks. [[arxiv]](https://arxiv.org/abs/2311.08993)
 * Yujia Qin\*, **Xiaozhi Wang**\*, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. Exploring Universal Intrinsic Task Subspace via Prompt Tuning. [[arxiv]](https://arxiv.org/abs/2110.07867)
 * Yuan Yao, Qingxiu Dong, Jian Guan, Boxi Cao, Zhengyan Zhang, Chaojun Xiao, **Xiaozhi Wang**, Fanchao Qi, Junwei Bao, Jinran Nie, Zheni Zeng, Yuxian Gu, Kun Zhou, Xuancheng Huang, Wenhao Li, Shuhuai Ren, Jinliang Lu, Chengqiang Xu, Huadong Wang, Guoyang Zeng, Zile Zhou, Jiajun Zhang, Juanzi Li, Minlie Huang, Rui Yan, Xiaodong He, Xiaojun Wan, Xin Zhao, Xu Sun, Yang Liu, Zhiyuan Liu, Xianpei Han, Erhong Yang, Zhifang Sui, Maosong Sun. CUGE: A Chinese Language Understanding and Generation Evaluation Benchmark. [[arxiv]](https://arxiv.org/abs/2112.13610)
@@ -16,7 +15,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Publications
 \* indicates equal contribution.
 ### 2024
-* Jifan Yu\*, **Xiaozhi Wang**\*, Shangqing Tu\*, et al. KoLA: Carefully Benchmarking World Knowledge of Large Language Models. [[pdf]](https://arxiv.org/pdf/2306.09296.pdf) [[homepage]](http://103.238.162.37:31622/)
+* Haowen Pan, Yixin Cao, **Xiaozhi Wang**, Xun Yang, Meng Wang. Finding and Editing Multi-Modal Neurons in Pre-Trained Transformers. *Findings of ACL 2024* [[pdf]](https://arxiv.org/pdf/2311.07470)
+* **Xiaozhi Wang**, Hao Peng, Yong Guan, Kaisheng Zeng, Jianhui Chen, Lei Hou, Xu Han, Yankai Lin, Zhiyuan Liu, Ruobing Xie, Jie Zhou, Juanzi Li. MAVEN-Arg: Completing the puzzle of all-in-one event understanding dataset with event argument annotation. *ACL 2024* [[pdf]](https://arxiv.org/pdf/2311.09105) [[code & data]](https://github.com/THU-KEG/MAVEN-Argument)
+* Jifan Yu\*, **Xiaozhi Wang**\*, Shangqing Tu\*, et al. KoLA: Carefully Benchmarking World Knowledge of Large Language Models. *ICLR 2024* [[pdf]](https://arxiv.org/pdf/2306.09296.pdf) [[homepage]](http://103.238.162.37:31622/)
 
 
 ### 2023
