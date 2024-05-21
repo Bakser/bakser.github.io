@@ -15,8 +15,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Publications
 \* indicates equal contribution.
 ### 2024
-* Haowen Pan, Yixin Cao, **Xiaozhi Wang**, Xun Yang, Meng Wang. Finding and Editing Multi-Modal Neurons in Pre-Trained Transformers. *Findings of ACL 2024* [[pdf]](https://arxiv.org/pdf/2311.07470)
 * **Xiaozhi Wang**, Hao Peng, Yong Guan, Kaisheng Zeng, Jianhui Chen, Lei Hou, Xu Han, Yankai Lin, Zhiyuan Liu, Ruobing Xie, Jie Zhou, Juanzi Li. MAVEN-Arg: Completing the puzzle of all-in-one event understanding dataset with event argument annotation. *ACL 2024* [[pdf]](https://arxiv.org/pdf/2311.09105) [[code & data]](https://github.com/THU-KEG/MAVEN-Argument)
+* Haowen Pan, Yixin Cao, **Xiaozhi Wang**, Xun Yang, Meng Wang. Finding and Editing Multi-Modal Neurons in Pre-Trained Transformers. *Findings of ACL 2024* [[pdf]](https://arxiv.org/pdf/2311.07470)
+* Shangqing Tu, Yuanchun Wang, Jifan Yu, Yuyang Xie, Yaran Shi, **Xiaozhi Wang**, Jing Zhang, Lei Hou, Juanzi Li. R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models. *KDD2024 Applied Data Science Track* [[code]](https://github.com/THU-KEG/R-Eval)
 * Jifan Yu\*, **Xiaozhi Wang**\*, Shangqing Tu\*, et al. KoLA: Carefully Benchmarking World Knowledge of Large Language Models. *ICLR 2024* [[pdf]](https://arxiv.org/pdf/2306.09296.pdf) [[homepage]](http://103.238.162.37:31622/)
 
 
