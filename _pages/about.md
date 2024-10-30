@@ -55,7 +55,11 @@ I am fortunate to have been mentored by several wonderful advisors and also feel
 Below is a (non-exhaustive) list of students who have collaborated with me.
 
 [Ziqi Wang](https://wzq016.github.io/) (THU -> UIUC PhD)
+
 [Hao Peng](https://scholar.google.com/citations?user=2ry7XsgAAAAJ&hl=en) (THU -> THU PhD)
+
 [Kaiyue Wen](https://whenwen.github.io/) (THU -> Stanford PhD)
+
 [Yulin Chen](https://scholar.google.com/citations?user=tAiXl18AAAAJ&hl=en) (THU -> NYU Shanghai PhD)
+
 [Jianhui Chen](https://scholar.google.com/citations?user=CkgiFxMAAAAJ&hl=en) (THU ->)
