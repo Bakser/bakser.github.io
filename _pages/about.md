@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am fortunately advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Currently, I am visiting [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/) under the supervison of [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html). Previously, I received my B.E. in [Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) from Tsinghua University in 2020. In 2019, I visited [Mila](https://mila.quebec/) and worked with [Prof. Jian Tang](https://jian-tang.com/). You can find my CV [here](/cv/).
+I am a final-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am fortunately advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Previously, I received my B.E. in [Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) from Tsinghua University in 2020. I also visited [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/) and [Mila](https://mila.quebec/) in 2024 and 2019, where I fortunately worked with [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html) and [Prof. Jian Tang](https://jian-tang.com/), respectively. My CV is availiable [here](/cv/)
 
-My research interest lies in natural language processing and knowledge engineering. The research directions I am fascinated in and working on are:
+<i>I'm on the job market now. Please feel free to reach out if you think I could be a good fit.</i>
 
-1. **Understanding Lanaguge Models** (Mechanistic Interpretability, Probing, etc.)
-  - How to understand the working mechanisms of language models and how can the findings help us improve and steer language models.
+My research interest lies in natural language processing and knowledge engineering. The research directions I am fascinated in and working on include:
+
+1. **Understanding Lanaguge Models** (Mechanistic Interpretability etc.)
+  - How to understand the inner workings of language models and how can the findings fundamentally help improve and steer language models.
   - Projects: [Skill Neuron](/files/EMNLP22-SkillNeuron/SkillNeuron.pdf), [Intrinsic Task Subspace](https://arxiv.org/abs/2110.07867), [Conceptual Knowledge Probing](/files/EMNLP22-COPEN/COPEN.pdf) 
 2. **Event Understanding** (Event Extraction, Event Relation Extraction, etc.)
   - How to enable models understand complicated events and their interrelations like causalities.
@@ -22,11 +24,11 @@ My research interest lies in natural language processing and knowledge engineeri
 
 
 ## News
+* [Oct. 2024] Will attend EMNLP in person. See you in Miami!
 * [May 2024] Got two papers accepted at ACL2024. See you in Bangkok!
 * [Mar. 2024] Start visiting [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/).
-* [Feb. 2024] Check out our new preprints on [MAVEN-Arg Event Argument Dataset](https://arxiv.org/abs/2311.09105) and [Event-level Knowledge Editing](https://arxiv.org/abs/2402.13093).
 * [Jan. 2024] The LLM world knowledge benchmark [KoLA](https://arxiv.org/abs/2306.09296) got accepted at ICLR. See you in Vienna!
-* [Dec. 2023] The [Robust Evaluation for Open IE](https://arxiv.org/abs/2305.13981) paper was selected as outstanding paper of EMNLP!
+* [Dec. 2023] The [Robust Evaluation for Open IE](https://arxiv.org/abs/2305.13981) paper was selected as outstanding paper of EMNLP.
 * [Oct. 2022] Release a nice event extraction toolkit [OmniEvent](https://github.com/THU-KEG/OmniEvent). Welcome to try it!
 
 ## Highlighted Publications
@@ -43,7 +45,8 @@ Please refer to [publications](/publications/) or [my Google Scholar profile](ht
 
 
 ## Professional Services
-* Area Chair: ACL Rolling Review since Feb. 2024
+* Area Chair: ACL Rolling Review since Feb. 2024 (ACL/EMNLP/NAACL 2024)
 * Program Committee Member/Reviewer (Conference): AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI/COLING/SIGIR/CCKS/EMNLP 2022, AAAI/ACL/EMNLP/NeurIPS 2023, NeurIPS 2024, ACL Rolling Review.
 * Reviewer (Journal): [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [Complex & Intelligent Systems](https://www.springer.com/journal/40747), [AI Open](https://www.sciencedirect.com/journal/ai-open), [IEEE TASLP](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), [Frontiers of Computer Science](https://www.springer.com/journal/11704)
 <!-- * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019 -->
+

@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[English CV](/files/English_CV.pdf)
+[English CV](/files/Xiaozhi_CV.pdf)
 
 [Chinese CV](/files/Chinese_CV.pdf)
 
-updated in 2023/08.
+updated in 2024/10.
 
