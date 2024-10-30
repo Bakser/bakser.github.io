@@ -48,9 +48,8 @@ Please refer to [publications](/publications/) or my [Google Scholar](https://sc
 * Area Chair: ACL Rolling Review since Feb. 2024 (ACL/EMNLP/NAACL 2024)
 * Program Committee Member/Reviewer (Conference): AAAI/IJCAI/COLING 2020, AAAI/ACL/EMNLP 2021, AAAI/COLING/SIGIR/CCKS/EMNLP 2022, AAAI/ACL/EMNLP/NeurIPS 2023, NeurIPS 2024, ACL Rolling Review.
 * Reviewer (Journal): [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [Complex & Intelligent Systems](https://www.springer.com/journal/40747), [AI Open](https://www.sciencedirect.com/journal/ai-open), [IEEE TASLP](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), [Frontiers of Computer Science](https://www.springer.com/journal/11704)
-<!-- * Review Assistant: COLING/EMNLP 2018, IJCAI/SIGIR/ACL 2019 -->
 
-<!-- ## Student Mentoring
+## Student Mentoring
 I am fortunate to have been mentored by several wonderful advisors and also feel obiligated to pass on the support. If you are a junior student interested in collaborating with me or seeking career advice, please feel free to reach out and schedule a meeting.
 
 Below is a (non-exhaustive) list of students who have collaborated with me.
@@ -59,4 +58,4 @@ Below is a (non-exhaustive) list of students who have collaborated with me.
 [Hao Peng](https://scholar.google.com/citations?user=2ry7XsgAAAAJ&hl=en) (THU -> THU PhD)
 [Kaiyue Wen](https://whenwen.github.io/) (THU -> Stanford PhD)
 [Yulin Chen](https://scholar.google.com/citations?user=tAiXl18AAAAJ&hl=en) (THU -> NYU Shanghai PhD)
-[Jianhui Chen](https://scholar.google.com/citations?user=CkgiFxMAAAAJ&hl=en) (THU ->) -->
+[Jianhui Chen](https://scholar.google.com/citations?user=CkgiFxMAAAAJ&hl=en) (THU ->)
