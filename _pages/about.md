@@ -12,13 +12,13 @@ I am a final-year PhD student at [Tsinghua University](https://www.tsinghua.edu.
 
 <i>I'm on the job market now. Please feel free to reach out if you think I could be a good fit.</i>
 
-My research interest lies in natural language processing and knowledge engineering. The research directions I am fascinated in and working on include:
+My research interest lies in natural language processing, machine learning, and knowledge engineering. The research directions I am fascinated in and working on include:
 
-1. **Understanding Lanaguge Models** (Mechanistic Interpretability etc.)
+1. **Understanding Lanaguge Models** (Mechanistic Interpretability, etc.)
   - How to understand the inner workings of language models and how can the findings fundamentally help improve and steer language models.
   - Projects: [Skill Neuron](/files/EMNLP22-SkillNeuron/SkillNeuron.pdf), [Intrinsic Task Subspace](https://arxiv.org/abs/2110.07867), [Conceptual Knowledge Probing](/files/EMNLP22-COPEN/COPEN.pdf) 
-2. **Event Understanding** (Event Extraction, Event Relation Extraction, etc.)
-  - How to enable models understand complicated events and their interrelations like causalities.
+2. **Complicated Information Seeking** (Knowledge Acquisition, etc.)
+  - How to enable language models seek and understand complicated knowledge like events and causalities.
   - Datasets: [MAVEN](/files/EMNLP20-MAVEN/MAVEN.pdf), [MAVEN-ERE](/files/EMNLP22-MAVEN-ERE/MAVEN-ERE.pdf), [MAVEN-Arg](https://arxiv.org/abs/2311.09105)
   - Toolkit: [OmniEvent](https://github.com/THU-KEG/OmniEvent), [Evaluation Pitfalls](https://aclanthology.org/2023.findings-acl.586.pdf) 
 
