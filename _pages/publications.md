@@ -11,11 +11,14 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 * Hao Peng\*, **Xiaozhi Wang**\*, Chunyang Li, Kaisheng Zeng, Jiangshan Duo, Yixin Cao, Lei Hou, Juanzi Li. Event-level Knowledge Editing. [[arxiv]](https://arxiv.org/abs/2402.13093)
 * Hao Peng\*, **Xiaozhi Wang**\*, Jianhui Chen\*, Weikai Li, Yunjia Qi, Zimu Wang, Zhili Wu, Kaisheng Zeng, Bin Xu, Lei Hou, Juanzi Li. When does In-context Learning Fall Short and Why? A Study on Specification-Heavy Tasks. [[arxiv]](https://arxiv.org/abs/2311.08993)
 * Yuan Yao, Qingxiu Dong, Jian Guan, Boxi Cao, Zhengyan Zhang, Chaojun Xiao, **Xiaozhi Wang**, Fanchao Qi, Junwei Bao, Jinran Nie, Zheni Zeng, Yuxian Gu, Kun Zhou, Xuancheng Huang, Wenhao Li, Shuhuai Ren, Jinliang Lu, Chengqiang Xu, Huadong Wang, Guoyang Zeng, Zile Zhou, Jiajun Zhang, Juanzi Li, Minlie Huang, Rui Yan, Xiaodong He, Xiaojun Wan, Xin Zhao, Xu Sun, Yang Liu, Zhiyuan Liu, Xianpei Han, Erhong Yang, Zhifang Sui, Maosong Sun. CUGE: A Chinese Language Understanding and Generation Evaluation Benchmark. [[arxiv]](https://arxiv.org/abs/2112.13610)
-* Ming Li\*, Yusheng Su\*, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, **Xiaozhi Wang**, Zhiyuan Liu, Dan Zhang. Human Emotion Knowledge Representation Emerges in Large Language Model and Supports Discrete Emotion Inference. [[arxiv]](https://arxiv.org/pdf/2302.09582.pdf)
 
 ## Publications
 \* indicates equal contribution.
+### 2025
+* Haowen Pan\*, **Xiaozhi Wang**\*, Yixin Cao, Zenglin Shi, Xun Yang, Juanzi Li, Meng Wang. Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs. *ICLR 2025*
+
 ### 2024
+* Ming Li\*, Yusheng Su\*, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, **Xiaozhi Wang**, Zhiyuan Liu, Dan Zhang. Language-specific representation of emotion-concept knowledge causally supports emotion inference. *iScience* [[pdf]](https://arxiv.org/pdf/2302.09582.pdf)
 * Chunyang Li\*, Hao Peng\*, **Xiaozhi Wang**, Yunjia Qi, Lei Hou, Bin Xu, Juanzi Li. MAVEN-Fact: A Large-scale Event Factuality Detection Dataset. *Findings of EMNLP 2024* [[pdf]](https://arxiv.org/pdf/2407.15352) [[code & data]](https://github.com/THU-KEG/MAVEN-FACT)
 * Yunjia Qi\*, Hao Peng\*, **Xiaozhi Wang**, Bin Xu, Lei Hou, Juanzi Li. ADELIE: Aligning Large Language Models on Information Extraction *EMNLP 2024* [[pdf]](https://arxiv.org/pdf/2405.05008) [[code]](https://github.com/THU-KEG/ADELIE)
 * **Xiaozhi Wang**, Hao Peng, Yong Guan, Kaisheng Zeng, Jianhui Chen, Lei Hou, Xu Han, Yankai Lin, Zhiyuan Liu, Ruobing Xie, Jie Zhou, Juanzi Li. MAVEN-Arg: Completing the puzzle of all-in-one event understanding dataset with event argument annotation. *ACL 2024* [[pdf]](https://arxiv.org/pdf/2311.09105) [[code & data]](https://github.com/THU-KEG/MAVEN-Argument) <font color="#dd0000">(oral)</font>

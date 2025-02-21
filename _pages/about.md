@@ -24,10 +24,11 @@ My research interest lies in natural language processing, machine learning, and 
 
 
 ## News
-* [Oct. 2024] Will attend EMNLP in person. See you in Miami!
+* [Feb. 2025] Release a tookit [OpenSAE](https://github.com/THU-KEG/OpenSAE) for efficiently training sparse auto-encoders and interpreting LLMs. Technical report coming soon.
+* [Feb. 2025] The [Precise Neuron-level Knowledge Editing](https://openreview.net/pdf/315e6bc805646ecb35434e68eab6f6bcac719812.pdf) got accepted at ICLR 2025.
+* [Oct. 2024] Will attend EMNLP in person. See you in Miami.
 * [May 2024] Got two papers accepted at ACL2024. See you in Bangkok!
 * [Mar. 2024] Start visiting [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/).
-* [Jan. 2024] The LLM world knowledge benchmark [KoLA](https://arxiv.org/abs/2306.09296) got accepted at ICLR. See you in Vienna!
 * [Dec. 2023] The [Robust Evaluation for Open IE](https://arxiv.org/abs/2305.13981) paper was selected as outstanding paper of EMNLP.
 * [Oct. 2022] Release a nice event extraction toolkit [OmniEvent](https://github.com/THU-KEG/OmniEvent). Welcome to try it!
 
