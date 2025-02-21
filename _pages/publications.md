@@ -6,6 +6,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=DjpXXZkAAAAJ).
 
 ## Preprints
+* Yushi Bai, Shangqing Tu, Jiajie Zhang, Hao Peng, **Xiaozhi Wang**, Xin Lv, Shulin Cao, Jiazheng Xu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li. LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks. [[arxiv]](https://arxiv.org/pdf/2412.15204)
 * Chaojun Xiao, Zhengyan Zhang, Chenyang Song, Dazhi Jiang, Feng Yao, Xu Han, **Xiaozhi Wang**, Shuo Wang, Yufei Huang, Guanyu Lin, Yingfa Chen, Weilin Zhao, Yuge Tu, Zexuan Zhong, Ao Zhang, Chenglei Si, Khai Hao Moo, Chenyang Zhao, Huimin Chen, Yankai Lin, Zhiyuan Liu, Jingbo Shang, and Maosong Sun. Configurable Foundation Models: Building LLMs from a Modular Perspective. [[arxiv]](https://arxiv.org/pdf/2409.02877)
 * Jianhui Chen\*, **Xiaozhi Wang**\*, Zijun Yao, Yushi Bai, Lei Hou, Juanzi Li. Finding Safety Neurons in Large Language Models. [[arxiv]](https://arxiv.org/abs/2406.14144)
 * Hao Peng\*, **Xiaozhi Wang**\*, Chunyang Li, Kaisheng Zeng, Jiangshan Duo, Yixin Cao, Lei Hou, Juanzi Li. Event-level Knowledge Editing. [[arxiv]](https://arxiv.org/abs/2402.13093)
