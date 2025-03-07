@@ -16,7 +16,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 ## Publications
 \* indicates equal contribution.
 ### 2025
-* Haowen Pan\*, **Xiaozhi Wang**\*, Yixin Cao, Zenglin Shi, Xun Yang, Juanzi Li, Meng Wang. Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs. *ICLR 2025*
+* Haowen Pan, **Xiaozhi Wang**, Yixin Cao, Zenglin Shi, Xun Yang, Juanzi Li, Meng Wang. Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs. *ICLR 2025* [[pdf]](https://arxiv.org/pdf/2503.01090) [[code]](https://github.com/opanhw/FiNE)
 
 ### 2024
 * Ming Li\*, Yusheng Su\*, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, **Xiaozhi Wang**, Zhiyuan Liu, Dan Zhang. Language-specific representation of emotion-concept knowledge causally supports emotion inference. *iScience* [[pdf]](https://arxiv.org/pdf/2302.09582.pdf)
