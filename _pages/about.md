@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track assistant professor at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University. Previously, I received my Ph.D. and Bachelor at the [Department of Computer Science and Technology]((http://www.cs.tsinghua.edu.cn/)), Tsinghua Univeristy in 2025 and 2020. I was fortunately advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also received mentorship from [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/) and [Mila](https://mila.quebec/) in 2024 and 2019, where I fortunately worked with [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html) and [Prof. Jian Tang](https://jian-tang.com/). My CV is availiable [here](/cv/).
+I am a tenure-track assistant professor at the [Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University. Previously, I received my Ph.D. and Bachelor at the [Department of Computer Science and Technology]((http://www.cs.tsinghua.edu.cn/)), Tsinghua Univeristy in 2025 and 2020. I was fortunately advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also received mentorship from [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/) and [Mila](https://mila.quebec/) in 2024 and 2019, where I fortunately worked with [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html) and [Prof. Jian Tang](https://jian-tang.com/). My CV is availiable [here](/cv/).
 
 
 My research spans the areas of natural language processing, machine learning, and knowledge engineering. The research directions I am fascinated in and working on include:

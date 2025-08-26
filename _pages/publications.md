@@ -6,7 +6,6 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=DjpXXZkAAAAJ).
 
 ## Preprints
-* Yushi Bai, Shangqing Tu, Jiajie Zhang, Hao Peng, **Xiaozhi Wang**, Xin Lv, Shulin Cao, Jiazheng Xu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li. LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks. [[arxiv]](https://arxiv.org/pdf/2412.15204)
 * Chaojun Xiao, Zhengyan Zhang, Chenyang Song, Dazhi Jiang, Feng Yao, Xu Han, **Xiaozhi Wang**, Shuo Wang, Yufei Huang, Guanyu Lin, Yingfa Chen, Weilin Zhao, Yuge Tu, Zexuan Zhong, Ao Zhang, Chenglei Si, Khai Hao Moo, Chenyang Zhao, Huimin Chen, Yankai Lin, Zhiyuan Liu, Jingbo Shang, and Maosong Sun. Configurable Foundation Models: Building LLMs from a Modular Perspective. [[arxiv]](https://arxiv.org/pdf/2409.02877)
 * Jianhui Chen\*, **Xiaozhi Wang**\*, Zijun Yao, Yushi Bai, Lei Hou, Juanzi Li. Finding Safety Neurons in Large Language Models. [[arxiv]](https://arxiv.org/abs/2406.14144)
 * Hao Peng\*, **Xiaozhi Wang**\*, Chunyang Li, Kaisheng Zeng, Jiangshan Duo, Yixin Cao, Lei Hou, Juanzi Li. Event-level Knowledge Editing. [[arxiv]](https://arxiv.org/abs/2402.13093)
@@ -16,6 +15,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 ## Publications
 \* indicates equal contribution.
 ### 2025
+* Hao Peng, Yunjia Qi, **Xiaozhi Wang**, Bin Xu, Lei Hou, Juanzi Li. VERIF: Verification Engineering for Reinforcement Learning in Instruction Following. *EMNLP 2025* [[pdf]](https://arxiv.org/pdf/2506.09942) [[code]](https://github.com/THU-KEG/VerIF)
+* Yi Jing, Zijun Yao, Hongzhu Guo, Lingxu Ran, **Xiaozhi Wang**, Lei Hou, Juanzi Li. LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder. *EMNLP 2025* [[pdf]](https://arxiv.org/pdf/2502.20344) [[code]]()
+* Yunjia Qi\*, Hao Peng\*, **Xiaozhi Wang**, Bin Xu, Lei Hou, Juanzi Li. Constraint Back-translation Improves Complex Instruction Following of Large Language Models. *CIKM 2025* [[pdf]](https://arxiv.org/pdf/2410.24175) [[code]](https://github.com/THU-KEG/Crab)
+* Yushi Bai, Shangqing Tu, Jiajie Zhang, Hao Peng, **Xiaozhi Wang**, Xin Lv, Shulin Cao, Jiazheng Xu, Lei Hou, Yuxiao Dong, Jie Tang, Juanzi Li. LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks. *ACL 2025* [[pdf]](https://arxiv.org/pdf/2412.15204) [[Homepage]](https://longbench2.github.io/)
+* Hao Peng\*, Yunjia Qi\*, **Xiaozhi Wang**, Zijun Yao, Bin Xu, Lei Hou, Juanzi Li. Agentic reward modeling: Integrating human preferences with verifiable correctness signals for reliable reward systems. *ACL 2025* [[pdf]](https://aclanthology.org/2025.acl-long.775.pdf) [[code]](https://github.com/THU-KEG/Agentic-Reward-Modeling)
 * Haowen Pan, **Xiaozhi Wang**, Yixin Cao, Zenglin Shi, Xun Yang, Juanzi Li, Meng Wang. Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs. *ICLR 2025* [[pdf]](https://arxiv.org/pdf/2503.01090) [[code]](https://github.com/opanhw/FiNE)
 
 ### 2024
