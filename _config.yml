@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaozhi Wang 王晓智"
 title_separator          : "-"
 name                     : &name "Xiaozhi Wang"
-description              : &description "NLP researcher, PhD student at Tsinghua University"
+description              : &description "NLP researcher, Assistant Professor at Tsinghua University"
 url                      : https://bakser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bakser.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Xiaozhi Wang"
   avatar           : "profile.jpg"
-  bio              : "PhD student at Tsinghua University, NLPer"
-  location         : "Beijing, China"
+  bio              : "Assistant Professor at SIGS, Tsinghua University"
+  location         : "Shenzhen, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=DjpXXZkAAAAJ"
-  email            : "wangxz20@mails.tsinghua.edu.cn"
+  email            : "xzwang@sz.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

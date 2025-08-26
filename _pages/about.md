@@ -8,20 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am fortunately advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also work closely with [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). Previously, I received my B.E. in [Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) from Tsinghua University in 2020. I also visited [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/) and [Mila](https://mila.quebec/) in 2024 and 2019, where I fortunately worked with [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html) and [Prof. Jian Tang](https://jian-tang.com/), respectively. My CV is availiable [here](/cv/).
+I am a tenure-track assistant professor at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University. Previously, I received my Ph.D. and Bachelor at the [Department of Computer Science and Technology]((http://www.cs.tsinghua.edu.cn/)), Tsinghua Univeristy in 2025 and 2020. I was fortunately advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) and also received mentorship from [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I visited [BLENDER Lab@UIUC](https://blender.cs.illinois.edu/) and [Mila](https://mila.quebec/) in 2024 and 2019, where I fortunately worked with [Prof. Heng Ji](https://blender.cs.illinois.edu/hengji.html) and [Prof. Jian Tang](https://jian-tang.com/). My CV is availiable [here](/cv/).
 
-<i>I'm on the job market now. Please feel free to reach out if you think I could be a good fit.</i>
 
-My research interest lies in natural language processing, machine learning, and knowledge engineering. The research directions I am fascinated in and working on include:
+My research spans the areas of natural language processing, machine learning, and knowledge engineering. The research directions I am fascinated in and working on include:
 
-1. **Understanding Lanaguge Models** (Mechanistic Interpretability, etc.)
-  - How to understand the inner workings of language models and how can the findings fundamentally help improve and steer language models.
-  - Projects: [Skill Neuron](/files/EMNLP22-SkillNeuron/SkillNeuron.pdf), [Intrinsic Task Subspace](https://arxiv.org/abs/2110.07867), [Conceptual Knowledge Probing](/files/EMNLP22-COPEN/COPEN.pdf) 
-2. **Complicated Information Seeking** (Knowledge Acquisition, etc.)
-  - How to enable language models seek and understand complicated knowledge like events and causalities.
-  - Datasets: [MAVEN](/files/EMNLP20-MAVEN/MAVEN.pdf), [MAVEN-ERE](/files/EMNLP22-MAVEN-ERE/MAVEN-ERE.pdf), [MAVEN-Arg](https://arxiv.org/abs/2311.09105)
-  - Toolkit: [OmniEvent](https://github.com/THU-KEG/OmniEvent), [Evaluation Pitfalls](https://aclanthology.org/2023.findings-acl.586.pdf) 
+1. **Understanding Lanaguge Models** (Mechanistic Interpretability)
+  - Understanding the inner workings of large models to explain their behaviors while exploring the scientific laws of artificial intelligence.
+2. **Scientific Improvements in Large Models**
+  - Enhancing the architecture, training, and evaluation of large models based on the mechanistic understandings, thereby fundamentally improving the knowledge, efficiency, safety, and autonomy of large models. 
 
+**Prospective Students:** The group continuously seeks self-motivated Ph.D. and Master students, Postdocs, and Interns. Research topics include but not limited to mechanistic interpretability, LLM safety, and data-centric methods. If you are interested, please drop an email to [xzwang@sz.tsinghua.edu.cn](mailto:xzwang@sz.tsinghua.edu.cn) with your CV attached.
 
 ## News
 * [Feb. 2025] Release a tookit [OpenSAE](https://github.com/THU-KEG/OpenSAE) for efficiently training sparse auto-encoders and interpreting LLMs. Technical report coming soon.
@@ -51,7 +48,7 @@ Please refer to [publications](/publications/) or my [Google Scholar](https://sc
 * Reviewer (Journal): [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing), [Complex & Intelligent Systems](https://www.springer.com/journal/40747), [AI Open](https://www.sciencedirect.com/journal/ai-open), [IEEE TASLP](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), [Frontiers of Computer Science](https://www.springer.com/journal/11704)
 
 ## Student Mentoring
-I am fortunate to have been mentored by several wonderful advisors and also feel obiligated to pass on the support. If you are a junior student interested in collaborating with me or seeking career advice, please feel free to reach out and schedule a meeting.
+I am fortunate to have been mentored by several wonderful advisors and also feel obiligated to pass on the support. If you are a junior student interested in collaborating or seeking career advice, please just reach out and schedule a meeting.
 
 Below is a (non-exhaustive) list of students who have collaborated with me.
 
